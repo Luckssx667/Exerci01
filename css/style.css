@@ -1,0 +1,26 @@
+body {
+    color: bisque;
+
+}
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+color: black;
+font-size: 45px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sulli {
+    color: black;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ads {
+    color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
